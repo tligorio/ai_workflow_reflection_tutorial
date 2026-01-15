@@ -1,5 +1,5 @@
 # Simple AI Workflow with Reflection using OpenRouter
-#### Tiziana Ligorio for *AI Agents course (CSCI 395.32)* taught at Hunter College of The City University of New York
+#### Tiziana Ligorio for *AI Agents - CSCI 395.32* taught at Hunter College of The City University of New York
 
 In this demo, we build a simple AI workflow that demonstrates the reflection pattern using three LLM personas working together to produce a polished report.
 
