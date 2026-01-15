@@ -1,0 +1,16 @@
+[project]
+name = "ai-workflow-reflection-tutorial"
+version = "0.1.0"
+description = "A simple AI workflow demonstrating the reflection pattern with three LLM personas: Writer, Critic, and Reviser"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "openai>=1.0.0",
+    "python-dotenv>=1.0.0",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.0.0",
+    "jupyter>=1.0.0",
+]
